@@ -1,0 +1,30 @@
+_repo: Personal-Recollections-Abridged-Chiefly-in-Parts-Pertaining-to-Political-and-Other-Controversi__8114
+creator:
+  author:
+    agent_name: Charlotte Elizabeth
+    aliases:
+    - Tonna, Charlotte Elizabeth Browne
+    - Phelan, Charlotte Elizabeth
+    - Elizabeth, Charlotte
+    - Elisabeth, Charlotte
+    birthdate: 1790
+    deathdate: 1846
+    gutenberg_agent_id: '2647'
+    url: http://www.gutenberg.org/2009/agents/2647
+    wikipedia: http://digital.lib.msu.edu/projects/ssb/search.cfm?AuthorID=176
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charlotte Elizabeth, 1790-1846'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+title: "Personal Recollections\r\nAbridged, Chiefly in Parts Pertaining to Political\
+  \ and Other Controversies Prevalent at the Time in Great Britain"
+url: http://www.gutenberg.org/ebooks/8114
