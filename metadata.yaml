@@ -1,4 +1,8 @@
 _repo: Personal-Recollections-Abridged-Chiefly-in-Parts-Pertaining-to-Political-and-Other-Controversi__8114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Charlotte Elizabeth
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2647
     wikipedia: http://digital.lib.msu.edu/projects/ssb/search.cfm?AuthorID=176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8114#Personal-Recollections-Abridged-Chiefly-in-Parts-Pertaining-to-Political-and-Other-Controversi_
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
